@@ -1,3 +1,4 @@
 name	path	filter
 01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/94f684eb10301f89899dd1f512a5569cd15748fb/Timecodes/025/025_Freynhagen_Hannah.png	Szenen
 02	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/025/01_Szenen_Rein_Jessica_025.png	Szenen
+03	https://github.com/maroeplin/bvk-128-03/blob/main/Timecodes/025/01_Szenen_Schmidt_nicht_final.jpg	Szenen
