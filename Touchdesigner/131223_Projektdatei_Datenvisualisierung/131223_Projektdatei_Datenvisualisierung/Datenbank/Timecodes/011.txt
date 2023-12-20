@@ -1,0 +1,2 @@
+name	path	filter
+01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/011/011_Freynhagen_Hannah.png	Szenen

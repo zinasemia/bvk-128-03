@@ -1,0 +1,4 @@
+name	path	filter
+01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/000/000_Freynhagen_Hannah.jpg	Szenen
+02	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/000/000_Freynhagen_Hannah.jpg	Charaktere	
+

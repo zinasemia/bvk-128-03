@@ -1,0 +1,4 @@
+name	path	filter
+01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/003/03_Charaktere_Reuters_Moritz.jpg	Charaktere	
+02	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/003/04_Charaktere_Reuters_Moritz.jpg	Charaktere
+03	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/003/05_Charaktere_Reuters_Moritz.jpg	Charaktere

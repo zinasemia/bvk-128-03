@@ -1,0 +1,4 @@
+name	path	filter
+01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/94f684eb10301f89899dd1f512a5569cd15748fb/Timecodes/027/027_Zirk_Luisa.png	Szenen
+01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/94f684eb10301f89899dd1f512a5569cd15748fb/Timecodes/027/04_Adaption_Paulsen_Blume.jpg	Szenen
+01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/94f684eb10301f89899dd1f512a5569cd15748fb/Timecodes/027/05_Adaption_Paulsen_Blume.jpg	Szenen
