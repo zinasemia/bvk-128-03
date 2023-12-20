@@ -1,0 +1,2 @@
+name	path	filter
+03	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/061/03_Adaption_Giessmann_Alina_Aufenthaltsraum2.jpg	Adaption
