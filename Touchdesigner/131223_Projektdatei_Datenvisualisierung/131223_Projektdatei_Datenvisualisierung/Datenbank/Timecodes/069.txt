@@ -1,0 +1,2 @@
+name	path	filter
+01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/069/01_Szenen_Knauer_Sarah_uhr_11.jpg	Szenen
