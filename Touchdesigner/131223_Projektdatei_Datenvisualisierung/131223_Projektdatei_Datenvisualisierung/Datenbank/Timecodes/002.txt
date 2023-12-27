@@ -1,3 +1,2 @@
-name	path	filter	
-01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/002/002_Freynhagen_Hannah.jpg	Szenen	
-02	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/002/002_Zirk_Luisa.png	Szenen
+name	path	filter	name
+02	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/002/002_Zirk_Luisa.png	Szenen	zirk
