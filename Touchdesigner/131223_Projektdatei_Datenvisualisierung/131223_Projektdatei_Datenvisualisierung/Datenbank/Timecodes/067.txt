@@ -1,2 +1,2 @@
-name	path	filter
+name	path	filter	prompt	titel	autor	projektuebersicht
 03	https://github.com/maroeplin/bvk-128-03/blob/main/Timecodes/067/03_adaption_Giessmann_Alina_Schlafbereich_kom.jpg	Adaption
