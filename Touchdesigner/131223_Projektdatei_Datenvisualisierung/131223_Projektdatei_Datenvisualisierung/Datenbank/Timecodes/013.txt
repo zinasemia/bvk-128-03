@@ -1,6 +1,6 @@
 name	path	filter	prompt	titel	autor	projektuebersicht
-01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/013/013_Freynhagen_Hannah.png	Szenen  Lorem ipsum dolor sit amet  Titel der Arbeit    Hannah Freynhagen
-02	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/013/00_Gisevius_Sara_Monolith.jpg	Objekte  Lorem ipsum dolor sit amet  Titel der Arbeit    Sara Gisevius
-03	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/013/01_Szenen_Rein_Jessica_013.png	Szenen  Lorem ipsum dolor sit amet  Titel der Arbeit    Jessica Rein	
-03	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/013/03_Adaption_Giessmann_Alina_Monolith_kom.jpg	Adaption	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.	Titel der Arbeit	Alina Giessmann	
-01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/013/01_Szenen_Knauer_Sarah_monolith_05.jpg	Szenen  Lorem ipsum dolor sit amet  Monolith    Sarah Knauer
+01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/013/013_Freynhagen_Hannah.png	Szenen	Lorem ipsum dolor sit amet  Titel der Arbeit    Hannah Freynhagen	freynhagen
+02	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/013/00_Gisevius_Sara_Monolith.jpg	Objekte  Lorem ipsum dolor sit amet	Titel der Arbeit    Sara Gisevius	gisevius
+03	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/013/01_Szenen_Rein_Jessica_013.png	Szenen	Lorem ipsum dolor sit amet	Titel der Arbeit	Jessica Rein	rein
+03	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/013/03_Adaption_Giessmann_Alina_Monolith_kom.jpg	Adaption	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.	Titel der Arbeit	Alina Giessmann	giessmann	
+01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/013/01_Szenen_Knauer_Sarah_monolith_05.jpg	Szenen  Lorem ipsum dolor sit amet  Monolith    Sarah Knauer	knauer
