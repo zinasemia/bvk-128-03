@@ -1,15 +1,1 @@
 name	path	filter	prompt	titel	autor	projektuebersicht
-01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/8c56257953806d60cc6e53b2a88abde6217d68f7/Platzhalter_Bild.jpg	Szenen
-01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/8c56257953806d60cc6e53b2a88abde6217d68f7/Platzhalter_Bild.jpg	Szenen
-01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/8c56257953806d60cc6e53b2a88abde6217d68f7/Platzhalter_Bild.jpg	Szenen
-01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/8c56257953806d60cc6e53b2a88abde6217d68f7/Platzhalter_Bild.jpg	Szenen
-01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/8c56257953806d60cc6e53b2a88abde6217d68f7/Platzhalter_Bild.jpg	Szenen
-01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/8c56257953806d60cc6e53b2a88abde6217d68f7/Platzhalter_Bild.jpg	Szenen
-01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/8c56257953806d60cc6e53b2a88abde6217d68f7/Platzhalter_Bild.jpg	Szenen
-01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/8c56257953806d60cc6e53b2a88abde6217d68f7/Platzhalter_Bild.jpg	Szenen
-01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/8c56257953806d60cc6e53b2a88abde6217d68f7/Platzhalter_Bild.jpg	Szenen
-01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/8c56257953806d60cc6e53b2a88abde6217d68f7/Platzhalter_Bild.jpg	Szenen
-01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/8c56257953806d60cc6e53b2a88abde6217d68f7/Platzhalter_Bild.jpg	Szenen
-01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/8c56257953806d60cc6e53b2a88abde6217d68f7/Platzhalter_Bild.jpg	Szenen
-01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/8c56257953806d60cc6e53b2a88abde6217d68f7/Platzhalter_Bild.jpg	Szenen
-01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/8c56257953806d60cc6e53b2a88abde6217d68f7/Platzhalter_Bild.jpg	Szenen
