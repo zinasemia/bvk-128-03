@@ -1,0 +1,2 @@
+name	path	filter	prompt	titel	autor	projektuebersicht
+01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/013/01_Szenen_Knauer_Sarah_monolith_05.jpg	Szenen	Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante.	Titel der Arbeit	Sarah Knauer	   knauer
