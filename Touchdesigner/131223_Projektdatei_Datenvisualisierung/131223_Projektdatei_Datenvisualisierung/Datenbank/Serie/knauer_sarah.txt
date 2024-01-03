@@ -1,2 +1,10 @@
 name	path	filter	prompt	titel	autor	projektuebersicht
 01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/013/01_Szenen_Knauer_Sarah_monolith_05.jpg	Szenen	Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante.	Titel der Arbeit	Sarah Knauer	   knauer
+01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/023/01_Szenen_Knauer_Sarah_spaceship_08.jpg	Szenen
+01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/025/01_Szenen_Knauer_Sarah_spaceship_03.jpg	Szenen	Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt.	Titel der Arbeit	Sarah Knauer	knauer
+01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/027/01_Szenen_Knauer_Sarah_Djinn_Chair_01.jpg	Szenen
+01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/050/01_Szenen_Knauer_Sarah_cockpit_10.jpg	Szenen
+01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/056/01_Szenen_Knauer_Sarah_spaceship_02.jpg	Szenen
+01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/069/01_Szenen_Knauer_Sarah_uhr_11.jpg	Szenen
+01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/072/01_Szenen_Knauer_Sarah_HAL_04.jpg	Szenen
+01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/098/01_Szenen_Knauer_Sarah_spacesuit_09.jpg	Szenen
