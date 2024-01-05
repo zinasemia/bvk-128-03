@@ -1,0 +1,2 @@
+name	path	filter	prompt	titel	autor	projektuebersicht
+07	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/013/00_Objekte_Reimers_Monolith.png	Objekte	broken glass effect, stunning, mythical, beautiful, colorful glass, no furniture, instead of the black square there is beautiful glass, mystical, light and shadow play	Monolith	Merle Reimers	reimers

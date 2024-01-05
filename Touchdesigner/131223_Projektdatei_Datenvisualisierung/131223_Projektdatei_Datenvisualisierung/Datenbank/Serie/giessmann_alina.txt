@@ -1,1 +1,2 @@
+name	path	filter	prompt	titel	autor	projektuebersicht
 03	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/013/03_Adaption_Giessmann_Alina_Monolith_kom.jpg	Adaption	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.	Titel der Arbeit	Alina Giessmann	
