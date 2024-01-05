@@ -1,5 +1,6 @@
-name	path	filter
-01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/003/03_Charaktere_Reuters_Moritz.jpg	Charaktere	
-02	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/003/04_Charaktere_Reuters_Moritz.jpg	Charaktere
-03	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/003/05_Charaktere_Reuters_Moritz.jpg	Charaktere
-04	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/003/05_Charaktere_Reuters_Moritz.jpg	Charaktere
+name	path	filter	prompt	titel	autor	projektuebersicht
+01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/003/03_Charaktere_Reuters_Moritz.jpg	Charaktere	Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt.	Titel der Arbeit	Moritz Reuters	reuters	
+02	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/003/04_Charaktere_Reuters_Moritz.jpg	Charaktere	Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt.	Titel der Arbeit	Moritz Reuters	reuters
+03	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/003/05_Charaktere_Reuters_Moritz.jpg	Charaktere	Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt.	Titel der Arbeit	Moritz Reuters	reuters
+04	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/003/05_Charaktere_Reuters_Moritz.jpg	Charaktere	Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt.	Titel der Arbeit	Moritz Reuters	reuters
+05	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/002/002_Zirk_Luisa.png	Szenen	Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt.	Titel der Arbeit	Luisa Zirk	zirk
