@@ -1,3 +1,3 @@
-name	path	filter
-02	https://github.com/maroeplin/bvk-128-03/blob/main/Timecodes/133/02_Charaktere_Matzick_Isabel%20(1).jpg	Charaktere
-02	https://github.com/maroeplin/bvk-128-03/blob/main/Timecodes/133/02_Charaktere_Matzick_Isabel%20(2).jpg	Charaktere
+name	path	filter	prompt	titel	autor	projektuebersicht
+02	https://github.com/maroeplin/bvk-128-03/blob/main/Timecodes/133/02_Charaktere_Matzick_Isabel%20(1).jpg	Charaktere	an astronaut in a vibrant red suit stands in an abandoned room with a baroque interior. The plants and weeds that have taken over the abndoned room add a touch of wildness to the scene, a stark contrast to the orderly		Astronaut in verlassenem Schlafzimmer		Isabel Matzick
+02	https://github.com/maroeplin/bvk-128-03/blob/main/Timecodes/133/02_Charaktere_Matzick_Isabel%20(2).jpg	Charaktere	an astronaut in a vibrant red suit stands in an abandoned room with a baroque interior. The plants and weeds that have taken over the abndoned room add a touch of wildness to the scene, a stark contrast to the orderly		Astronaut in verlassenem Schlafzimmer 		Isabel Matzick
