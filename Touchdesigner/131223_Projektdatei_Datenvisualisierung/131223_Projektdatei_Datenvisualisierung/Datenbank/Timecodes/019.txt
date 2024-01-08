@@ -1,4 +1,5 @@
 name	path	filter	prompt	titel	autor	projektuebersicht
-01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/94f684eb10301f89899dd1f512a5569cd15748fb/Timecodes/019/019_Freynhagen_Hannah.png	Szenen
-02	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/019/03_Adaption_Giessmann_Alina_Landscape_Monkey_kom.jpg	Adaption
-02	C:/Program Files/Derivative/TouchDesigner/Samples/Map/Count.mov	Szenen
+01  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/019/00_Objekte_Reimers_Gl%C3%A4serner_Knochen2.jpg    Objekte Lorem ipsum dolor sit amet	Titel der Arbeit    Merle Reimers   reimers
+02  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/019/00_Objekte_Reimers_Gl%C3%A4serner_Knochen3.jpg    Objekte Lorem ipsum dolor sit amet	Titel der Arbeit    Merle Reimers   reimers
+01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/94f684eb10301f89899dd1f512a5569cd15748fb/Timecodes/019/019_Freynhagen_Hannah.png	Szenen  Lorem ipsum dolor sit amet	Titel der Arbeit     Hannah Freynhagen  freynhagen
+02	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/019/03_Adaption_Giessmann_Alina_Landscape_Monkey_kom.jpg	Adaption    Lorem ipsum dolor sit amet	Titel der Arbeit    Alina Giessmann giessmann

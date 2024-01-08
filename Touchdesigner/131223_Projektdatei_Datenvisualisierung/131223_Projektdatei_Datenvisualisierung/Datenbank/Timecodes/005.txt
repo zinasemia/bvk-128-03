@@ -1,2 +1,2 @@
 name	path	filter	prompt	titel	autor	projektuebersicht
-01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/8c56257953806d60cc6e53b2a88abde6217d68f7/Platzhalter_Bild.jpg	Objekte	Schwarzfeld	Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt.	Titel der Arbeit	David Schwarzfeld	schwarzfeld
+01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/8c56257953806d60cc6e53b2a88abde6217d68f7/Platzhalter_Bild.jpg	Szenen	Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt.	Titel der Arbeit	arah Jakob & Dariia Vasilega	jakob
