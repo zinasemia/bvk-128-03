@@ -1,2 +1,4 @@
 name	path	filter	prompt	titel	autor	projektuebersicht
-01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/94f684eb10301f89899dd1f512a5569cd15748fb/Timecodes/028/028_Freynhagen_Hannah.jpg	Szenen
+01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/94f684eb10301f89899dd1f512a5569cd15748fb/Timecodes/028/028_Freynhagen_Hannah.jpg	Objekte	spaceship overgrown by many green weeds and plants showing how nature takes over, looking like a djungle, cinematic look	Titel der Arbeit	Hannah Freynhagen   freynhagen
+02	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/039/039_Szenen_Jakob_Vasilega_Sarah_Dariia.png    Szenen  Prompt eingeben Titel der Arbeit	Sarah Jakob & Dariia Vasilega   jakob
+03	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/039/039_Zirk_Luisa.png	Objekte	spaceship   Prompt eingeben Titel der Arbeit	Luisa Zirk  zirk
