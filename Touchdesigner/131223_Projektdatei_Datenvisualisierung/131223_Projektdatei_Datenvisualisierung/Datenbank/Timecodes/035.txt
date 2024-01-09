@@ -13,5 +13,15 @@ nummer	path	filter	prompt	titel	autor	projektuebersicht
 07  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/035/02_Szenen_Schwarzfeld_David.jpg    Szenen  Prompt eingeben Titel der Arbeit    David Schwarzfeld  schwarzfeld
 09  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/035/035_Szenen_Jakob_Vasilega_Sarah_Dariia.png    Szenen Prompt eingeben  Titel der Arbeit    Sarah Jakob & Dariia Vasilega   Jakob
 10  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/035/035_Zirk_Luisa.png    Szenen  Prompt eingeben Titel der Arbeit    Luisa Zirk  zirk
-
-
+02	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/035/03_Objektserie_Eickelpasch_Cells.jpg	Szenen  nature takes over the technology, step inside an abandoned spaceship overgrown by many green weeds and plants, looking like a djungle, cinematic look, dark	Verlassenes Raumschiff	Lisa Eickelpasch eickelpasch
+07  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/035/03_Szenen_Schwarzfeld_David.jpg    Szenen  Prompt eingeben Titel der Arbeit    David Schwarzfeld  schwarzfeld
+07  https://github.com/maroeplin/bvk-128-03/blob/main/Timecodes/035/04_Objektserie_Eickelpasch_Cells.jpg?raw=true   Szenen  Prompt eingeben Titel der Arbeit    Lisa Eickelpasch eickelpasch
+07  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/035/05_Objektserie_Eickelpasch_Cells.jpg   Szenen  Prompt eingeben Titel der Arbeit    Lisa Eickelpasch eickelpasch
+07  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/035/06_Objektserie_Eickelpasch_Cells.jpg   Szenen  Prompt eingeben Titel der Arbeit    Lisa Eickelpasch eickelpasch
+07  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/035/07_Objektserie_Eickelpasch_Cells.jpg   Szenen  Prompt eingeben Titel der Arbeit    Lisa Eickelpasch eickelpasch
+07  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/035/08_Objektserie_Eickelpasch_Cells.jpg   Szenen  Prompt eingeben Titel der Arbeit    Lisa Eickelpasch eickelpasch
+07  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/035/09_Objektserie_Eickelpasch_Cells.jpg   Szenen  Prompt eingeben Titel der Arbeit    Lisa Eickelpasch eickelpasch
+07  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/035/10_Objektserie_Eickelpasch_Cells.jpg   Szenen  Prompt eingeben Titel der Arbeit    Lisa Eickelpasch eickelpasch
+07  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/035/11_Objektserie_Eickelpasch_Cells.jpg   Szenen  Prompt eingeben Titel der Arbeit    Lisa Eickelpasch eickelpasch
+07  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/035/12_Objektserie_Eickelpasch_Cells.jpg   Szenen  Prompt eingeben Titel der Arbeit    Lisa Eickelpasch eickelpasch
+07  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/035/13_Objektserie_Eickelpasch_Cells.jpg   Szenen  Prompt eingeben Titel der Arbeit    Lisa Eickelpasch eickelpasch
