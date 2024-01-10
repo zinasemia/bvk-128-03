@@ -1,6 +1,6 @@
-name	path	filter	prompt	titel	autor	projektuebersicht
-01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/94f684eb10301f89899dd1f512a5569cd15748fb/Timecodes/027/027_Zirk_Luisa.png	Szenen  prompt eingeben Titel der Arbeit    Luisa Zirk  zirk
-01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/94f684eb10301f89899dd1f512a5569cd15748fb/Timecodes/027/04_Adaption_Paulsen_Blume.jpg	Szenen prompt eingeben Titel der Arbeit Nannie Paulsen  paulsen
-01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/94f684eb10301f89899dd1f512a5569cd15748fb/Timecodes/027/05_Adaption_Paulsen_Blume.jpg	Szenen prompt eingeben Titel der Arbeit Nannie Paulsen  paulsen
-01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/027/01_Szenen_Knauer_Sarah_Djinn_Chair_01.jpg	Szenen prompt eingeben Titel der Arbeit    Sarah Knauer   knauer
-05  https://raw.githubusercontent.com/maroeplin/bvk-128-03/24cb1eb6567d228de45eb66904304d3bb036c731/Timecodes/027/027_Objekte_N%C3%B5ulik_Romy_02.jpg  Objekte prompt eingeben Titel der Arbeit    Nõulik Romy   noulik
+﻿name	path	filter	prompt	titel	autor	projektuebersicht
+01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/94f684eb10301f89899dd1f512a5569cd15748fb/Timecodes/027/027_Zirk_Luisa.png	Szenen	prompt eingeben	Titel der Arbeit	Luisa Zirk	zirk				
+01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/94f684eb10301f89899dd1f512a5569cd15748fb/Timecodes/027/04_Adaption_Paulsen_Blume.jpg	Szenen prompt eingeben	Titel der Arbeit	Nannie Paulsen	paulsen				
+01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/94f684eb10301f89899dd1f512a5569cd15748fb/Timecodes/027/05_Adaption_Paulsen_Blume.jpg	Szenen prompt eingeben	Titel der Arbeit	Nannie Paulsen	paulsen				
+01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/027/01_Szenen_Knauer_Sarah_Djinn_Chair_01.jpg	Szenen	prompt eingeben	Titel der Arbeit	Sarah Knauer	knauer				
+05	https://raw.githubusercontent.com/maroeplin/bvk-128-03/24cb1eb6567d228de45eb66904304d3bb036c731/Timecodes/027/027_Objekte_N%C3%B5ulik_Romy_02.jpg	Objekte	prompt eingeben	Titel der Arbeit	Nõulik Romy	noulik						
