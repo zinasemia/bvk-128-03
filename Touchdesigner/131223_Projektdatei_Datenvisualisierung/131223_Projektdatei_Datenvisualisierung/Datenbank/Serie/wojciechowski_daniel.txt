@@ -1,1 +1,2 @@
 name	path	filter	prompt	titel	autor	projektuebersicht
+00  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Wojciechowski_Daniel/00_Objekt_Wojciechowski_Spaceship_038.jpg  Objekte  analog style, Generate an image depicting the spaceship from 2001: A Space Odyssey stranded and crashed in the middle of a desolate desert. Photorealistic, wide-angle, photographed with a Hasselblad Camera  Spaceship01  Daniel Wojciechowski  wojciechowski
