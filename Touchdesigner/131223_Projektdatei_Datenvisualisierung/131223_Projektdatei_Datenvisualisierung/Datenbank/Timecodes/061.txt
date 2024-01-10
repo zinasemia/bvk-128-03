@@ -1,0 +1,3 @@
+name	path	filter	prompt	titel	autor	projektuebersicht
+03	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/061/03_Adaption_Giessmann_Alina_Aufenthaltsraum2.jpg	Adaption    screens, monitors, tvs, keyboards, buttons, honeycomb structure, Biomimicry, Organic forms, Curved lines, organic architecture, Asymmetry, Natural forms, Whiplash curves, Aesthetic movement, organic rooms,  out of Space, dynamic lighting, ultra high definition, reflections, sharp focus, intense shadows, detailed and intricate environment, intricate  Aufenthaltsraum Alina Giessmann giessmann
+ 

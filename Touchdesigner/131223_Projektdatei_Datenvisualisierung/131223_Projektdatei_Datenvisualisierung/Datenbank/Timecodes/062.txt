@@ -1,0 +1,2 @@
+name	path	filter	prompt	titel	autor	projektuebersicht
+03  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Giessmann_Alina/03_Adaption_Giessmann_Alina_HAL_9000.jpg   Adaption    HAL 9000 from the movie Space Odyssey, in a Spaceship, honeycomb structure, Biomimicry, Organic forms, Natural forms, Whiplash curves, Aesthetic movement, organic rooms,  out of Space, dynamic lighting, ultra high definition, reflections, sharp focus, intense shadows, detailed and intricate environment, intricate  HAL 9000    Alina Giessmann giessmann

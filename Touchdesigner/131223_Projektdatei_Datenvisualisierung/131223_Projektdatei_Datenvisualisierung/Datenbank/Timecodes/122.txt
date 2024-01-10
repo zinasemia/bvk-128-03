@@ -1,0 +1,2 @@
+name	path	filter	prompt	titel	autor	projektuebersicht
+01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/d7b53cf90f46a1fc10ac0387438b79dad19312b4/Timecodes/122/122_Szene_Jakimov_ASpaceOdysseyOpera.png	Szenen	Lorem ipsum dolor sit amet	Titel der Arbeit	Maraia Jakimova	jakimova

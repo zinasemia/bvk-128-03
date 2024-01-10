@@ -1,0 +1,4 @@
+nummer	path	filter	prompt	titel	autor	projektuebersicht
+01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/000/000_Freynhagen_Hannah.jpg	Szenen	Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante.	Titel der Arbeit	Hannah Freynhagen   freynhagen
+02	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/013/013_Freynhagen_Hannah.png	Szenen	Lorem ipsum dolor sit amet	Titel der Arbeit	Hannah Freynhagen	freynhagen
+03	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/011/011_Freynhagen_Hannah.png	Szenen	Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt.	Titel der Arbeit	Hannah Freynhagen	freynhagen

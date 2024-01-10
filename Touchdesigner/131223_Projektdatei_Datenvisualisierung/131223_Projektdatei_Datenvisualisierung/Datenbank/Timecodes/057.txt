@@ -1,0 +1,2 @@
+name	path	filter	prompt	titel	autor	projektuebersicht
+03	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/057/03_Adaption_Giessmann_Alina_Hauptraum_kom.jpg	Adaption    control elements, monitor, Organic forms, Curved lines, organic architecture, Asymmetry, Natural forms, Whiplash curves, Aesthetic movement, organic rooms, Biomimicry,  out of Space, dynamic lighting, ultra high definition, reflections, sharp focus, intense shadows, detailed and intricate environment, intricate    Essbereich  Alina Giessmann giessmann  

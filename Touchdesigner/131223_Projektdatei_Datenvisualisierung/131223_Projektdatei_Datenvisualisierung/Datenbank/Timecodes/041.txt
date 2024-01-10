@@ -1,2 +1,3 @@
-name	path	filter
-01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/94f684eb10301f89899dd1f512a5569cd15748fb/Timecodes/028/028_Freynhagen_Hannah.jpg	Szenen
+nummer	path	filter	prompt	titel	autor	projektuebersicht
+01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/039/039_Zirk_Luisa.png	Objekte Prompt eingeben Titel der Arbeit	Hannah Freynhagen   freynhagen
+02	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/041/041_Zirk_Luisa.png    Szenen  Prompt eingeben Titel der Arbeit    Luisa Zirk  zirk
