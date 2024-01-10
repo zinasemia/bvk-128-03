@@ -1,6 +1,6 @@
 nummer	path	filter	prompt	titel	autor	projektuebersicht
-00  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/025/01_Szenen_Rein_Jessica_025.png    Szenen  prompt eingeben Titel der Arbeit    Jessica Rein    rein
-00  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/025/01_Szenen_Knauer_Sarah_spaceship_03.jpg    Szenen  prompt eingeben Titel der Arbeit    Sarah Knauer    knauer
-02  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/025/025_Freynhagen_Hannah(1).png    Szenen  prompt eingeben Titel der Arbeit    Hannah Freynhagen    freynhagen
-03  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/025/025_Freynhagen_Hannah.png    Szenen  prompt eingeben Titel der Arbeit    Hannah Freynhagen    freynhagen
-04  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/025/025_Szenen_Jakob_Vasilega_Sarah_Dariia.png    Szenen  prompt eingeben Titel der Arbeit    Sarah Jakob & Dariia Vasilega    jakob
+00	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/025/01_Szenen_Rein_Jessica_025.png	Szenen  prompt eingeben Titel der Arbeit    Jessica Rein    rein						
+00	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/025/01_Szenen_Knauer_Sarah_spaceship_03.jpg	Szenen  prompt eingeben Titel der Arbeit    Sarah Knauer    knauer						
+02	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/025/025_Freynhagen_Hannah(1).png	Szenen  prompt eingeben Titel der Arbeit    Hannah Freynhagen    freynhagen						
+03	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/025/025_Freynhagen_Hannah.png	Szenen  prompt eingeben Titel der Arbeit    Hannah Freynhagen    freynhagen						
+04	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/025/025_Szenen_Jakob_Vasilega_Sarah_Dariia.png	Szenen  prompt eingeben Titel der Arbeit    Sarah Jakob & Dariia Vasilega    jakob						
