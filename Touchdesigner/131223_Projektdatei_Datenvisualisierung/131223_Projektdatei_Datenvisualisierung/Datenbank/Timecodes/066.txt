@@ -1,0 +1,3 @@
+name	path	filter	prompt	titel	autor	projektuebersicht
+01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/24cb1eb6567d228de45eb66904304d3bb036c731/Timecodes/066/066_Objekte_N%C3%B5ulik_Romy_01.jpg   Objekte prompt eingeben Titel der Arbeit    Nõulik Romy   noulik
+02	https://raw.githubusercontent.com/maroeplin/bvk-128-03/24cb1eb6567d228de45eb66904304d3bb036c731/Timecodes/066/066_Objekte_N%C3%B5ulik_Romy_02.jpg   Objekte prompt eingeben Titel der Arbeit    Nõulik Romy   noulik
