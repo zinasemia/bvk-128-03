@@ -3,4 +3,4 @@ name	path	filter	prompt	titel	autor	projektuebersicht
 00	https://github.com/maroeplin/bvk-128-03/blob/main/Timecodes/038/00_Objekte_Matzick_Raumschiff%20(3).jpg	Objekte	spaceship overgrown with veets	Raumschiff von Natur besetzt	Isabel Matzick
 00	https://github.com/maroeplin/bvk-128-03/blob/main/Timecodes/038/00_Objekte_Matzick_Raumschiff%20(2).jpg	Objekte	spaceship overgrown by many green weeds and plants showing how nature takes over, looking like a djungle, cinematic look	Raumschiff	Isabel Matzick
 00	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/038/038_Szenen_Jakob_Vasilega_Sarah_Dariia.png	Objekte	Prompt eingeben	Titel der Arbeit	Sarah Jakob & Dariia Vasilega   jakob
-
+00  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Wojciechowski_Daniel/00_Objekt_Wojciechowski_Spaceship_038.jpg  Objekte  analog style, Generate an image depicting the spaceship from 2001: A Space Odyssey stranded and crashed in the middle of a desolate desert. Photorealistic, wide-angle, photographed with a Hasselblad Camera  Spaceship01  Daniel Wojciechowski  wojciechowski
