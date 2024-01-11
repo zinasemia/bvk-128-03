@@ -1,3 +1,4 @@
 name	path	filter	prompt	titel	autor	projektuebersicht
 01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/24cb1eb6567d228de45eb66904304d3bb036c731/Timecodes/066/066_Objekte_N%C3%B5ulik_Romy_01.jpg   Objekte prompt eingeben Titel der Arbeit    Nõulik Romy   noulik
 02	https://raw.githubusercontent.com/maroeplin/bvk-128-03/24cb1eb6567d228de45eb66904304d3bb036c731/Timecodes/066/066_Objekte_N%C3%B5ulik_Romy_02.jpg   Objekte prompt eingeben Titel der Arbeit    Nõulik Romy   noulik
+03  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/066/01_Szenen_Reimers_Gläserner_Entspannungsraum.jpg  Szenen  a small room in a futuristic spaceship. The walls, ceiling and floor are made of a transparent material that allows light to pass through. The walls are decorated with colorful stained glass depicting abstract shapes and patterns. The stained glass is reminiscent of the windows of a church… Gläserner_Entspannungsraum  Merle Reimers   reimers
