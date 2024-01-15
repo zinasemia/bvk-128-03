@@ -25,3 +25,4 @@ nummer	path	filter	prompt	titel	autor	projektuebersicht
 07  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/035/11_Objektserie_Eickelpasch_Cells.jpg   Szenen  Prompt eingeben Titel der Arbeit    Lisa Eickelpasch eickelpasch
 07  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/035/12_Objektserie_Eickelpasch_Cells.jpg   Szenen  Prompt eingeben Titel der Arbeit    Lisa Eickelpasch eickelpasch
 07  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/035/13_Objektserie_Eickelpasch_Cells.jpg   Szenen  Prompt eingeben Titel der Arbeit    Lisa Eickelpasch eickelpasch
+01  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/035/01_Szenen_Schwarzfeld_David.jpg  Szenen
