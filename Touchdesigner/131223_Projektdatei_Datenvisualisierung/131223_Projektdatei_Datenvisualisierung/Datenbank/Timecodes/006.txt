@@ -1,4 +1,4 @@
 name	path	filter	prompt	titel	autor	projektuebersicht
 01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/006/006_Freynhagen_Hannah.png	Szenen	Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt.	Titel der Arbeit	Hannah Freynhagen	freynhagen
 01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/006/006_Freynhagen_Hannah.png	Szenen	Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt.	Titel der Arbeit	Hannah Freynhagen	freynhagen
-03	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/006/03_Szenen_Jakob_Vasilega_Sarah_Dariia_006.png	Szenen	make more russian, tundra, atmosphere of the movie solaris by Andrei Tarkowski	Meer	Sarah Jacob Dariia Vasilega	soviet
+03	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/006/03_Szenen_Jakob_Vasilega_Sarah_Dariia_006.png	Szene	make more russian, tundra, atmosphere of the movie solaris by Andrei Tarkowski  Meer	Sarah Jakob Dariia Vasilega	soviet
