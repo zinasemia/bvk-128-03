@@ -1,2 +1,3 @@
 name	path	filter	prompt	titel	autor	projektuebersicht
 01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/94f684eb10301f89899dd1f512a5569cd15748fb/Timecodes/028/028_Freynhagen_Hannah.jpg	Szenen
+20	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/048/20_Szenen_Jakob_Vasilega_Sarah_Dariia_048.png	Szene	retro photo, kubrick, soviet atmosphere, cosmonauts enjoying lunch together, actual food, like snacks and sandwiches, document, realistic, realism, realistic photograph, photorealism, 1970s, no hands	Cosmonauten	Sarah Jakob Dariia Vasilega	soviet
