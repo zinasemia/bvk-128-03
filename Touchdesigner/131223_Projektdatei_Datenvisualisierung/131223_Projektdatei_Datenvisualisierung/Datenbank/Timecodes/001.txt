@@ -1,3 +1,4 @@
 name	path	filter	prompt	titel	autor	projektuebersicht
 01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/000/000_Freynhagen_Hannah.jpg	Szenen	Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante.	Titel der Arbeit	Hannah Freynhagen   freynhagen
 02	L:/2023_24_Wintersemester/DM/BVK/BVK_IM_Entwurf/bvk-128-03/Touchdesigner/131223_Projektdatei_Datenvisualisierung/131223_Projektdatei_Datenvisualisierung/Datenbank/Videos/Count.mov	Test
+01  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Reuters_Moritz/01_Charaktere_Reuters_Moritz.jpg  Charaktere  reuters
