@@ -1,3 +1,4 @@
 name	path	filter	prompt	titel	autor	projektuebersicht
 01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/94f684eb10301f89899dd1f512a5569cd15748fb/Timecodes/028/028_Freynhagen_Hannah.jpg	Szenen
 01 https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/031/01_Szenen_Knauer_Sarah_Innenraum_06.jpg Szenen
+01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/031/01_Szenen_Knauer_Sarah_Innenraum_06_01.jpg	Szenen	spaceship interior made out of rough rattan, with furniture made out of rough rattan, spaceship floating in dark space, 8k high resolution photography	Innenraum	Sarah Knauer	knauer

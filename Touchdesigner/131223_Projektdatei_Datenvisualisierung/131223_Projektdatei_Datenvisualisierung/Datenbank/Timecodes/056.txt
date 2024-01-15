@@ -1,3 +1,5 @@
 name	path	filter	prompt	titel	autor	projektuebersicht
 01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/24cb1eb6567d228de45eb66904304d3bb036c731/Timecodes/056/056_Objekte_N%C3%B5ulik_Romy.jpg   Objekte prompt eingeben Titel der Arbeit    Nõulik Romy   noulik
 02  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/056/00_Objekte_Reimers_Gläserne_Raumschiffe4und5.gif  Objekte made of colorful stained glass depicting abstract shapes and patterns. The light passes through the glass. It flies in the universe Gläserne_Raumschiffe_4_und_5 (gif)  Merle Reimers   reimers
+01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/056/01_Szenen_Knauer_Sarah_spaceship_02_01.jpg	Szenen	centrifugally shaped, long spaceship floating in dark space, materials rattan, bamboo and jute, 8k high resolution photography	Raumschiff	Sarah Knauer	knauer
+01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/056/01_Szenen_Knauer_Sarah_spaceship_02.jpg	Szenen	big spaceship floating in dark space, made out of rattan, 8k high resolution photography	Raumschiff	Sarah Knauer	knauer
