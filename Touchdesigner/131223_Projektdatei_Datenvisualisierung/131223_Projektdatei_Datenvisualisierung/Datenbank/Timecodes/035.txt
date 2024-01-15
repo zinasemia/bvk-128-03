@@ -28,3 +28,4 @@ nummer	path	filter	prompt	titel	autor	projektuebersicht
 01  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/035/01_Szenen_Schwarzfeld_David.jpg  Szenen
 02  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/035/02_Szenen_Schwarzfeld_David.jpg  Szenen
 03  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/035/03_Szenen_Schwarzfeld_David.jpg  Szenen
+16	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/035/16_Szenen_Jakob_Vasilega_Sarah_Dariia_035.png	Szene	a set design for Kubrick´s Space Odyssey 2001 movie but designed in Soviet constructivism style, 1960s, USSR, propaganda, Minimalistic, Industrial, Utilitarian, modular, Monolithic, Stern, Foreboding, Dystopian, geometric, futuristic, Utilitarian, photorealistic, retro photo , Kubrick aesthetic, hyperrealism, modernism, Space odyssey, coloured, dust, cabels, plastic on the floor	Halle mit Treppe	Sarah Jakob Dariia Vasilega	soviet
