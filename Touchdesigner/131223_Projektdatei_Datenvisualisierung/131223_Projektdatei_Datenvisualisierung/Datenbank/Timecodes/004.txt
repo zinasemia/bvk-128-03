@@ -3,4 +3,4 @@ name	path	filter	prompt	titel	autor	projektuebersicht
 02	L:/2023_24_Wintersemester/DM/BVK/BVK_IM_Entwurf/bvk-128-03/Touchdesigner/131223_Projektdatei_Datenvisualisierung/131223_Projektdatei_Datenvisualisierung/Datenbank/Videos/Count.mov	Objekte	Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt.	Titel der Arbeit	David Schwarzfeld	schwarzfeld
 01  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/004/01_Objekte_Schwarzfeld_David.jpg  Objekte
 01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/004/01_Szenen_Badt_Hendrik_004.png	Objekte	Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt.	Titel der Arbeit	Badt Hendrik Badt
-01  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/004/01_Adaption_Lai_Sarah.png  Adaption  Lai
+01  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/004/01_Adaption_Lai_Sarah.png  Adaption  lovecraftian cosmic horror space odyssey the rebels are consumed by cosmic energies as they fight against the evil Alliance. Emphasize distorted realities and a desperate struggle against the inexplicable  Adaption  Lai
