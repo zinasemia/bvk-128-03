@@ -1,5 +1,6 @@
-﻿name	path	filter	prompt	titel	autor	projektuebersicht
+name	path	filter	prompt	titel	autor	projektuebersicht
 01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/94f684eb10301f89899dd1f512a5569cd15748fb/Timecodes/023/023_Freynhagen_Hannah.png	Szenen	prompt eingeben  Titel der Arbeit    Hannah Freynhagen   freynhagen				
-01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/023/01_Szenen_Knauer_Sarah_spaceship_08.jpg	Szenen prompt eingeben Titel der Arbeit    Sarah Kanuer knauer										
-04	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/023/00_Objekte_Reimers_Gl%C3%A4sernes_Raumschiff3.jpg	Objekte prompt eingeben Titel der Arbeit    Merle Reimers   reimers						
-05	https://raw.githubusercontent.com/maroeplin/bvk-128-03/24cb1eb6567d228de45eb66904304d3bb036c731/Timecodes/023/023_Objekte_N%C3%B5ulik_Romy.jpg	Objekte prompt eingeben Titel der Arbeit    Nõulik Romy   noulik						
+01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/023/01_Szenen_Knauer_Sarah_spaceship_08.jpg	Szenen	long spaceship floating in dark space, materials rattan bamboo and jute, 8k high resolution photography	Raumschiff	Sarah Knauer	knauer									
+04	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/023/00_Objekte_Reimers_Gläserne_Raumschiffe2und3.gif	Objekte broken glass effect, stunning, mythical, beautiful, a spaceship that looks like a organic, modern church, beautiful, colorful glass  Gläserne_Raumschiffe_2_und_3 (gif)    Merle Reimers   reimers						
+05	https://raw.githubusercontent.com/maroeplin/bvk-128-03/24cb1eb6567d228de45eb66904304d3bb036c731/Timecodes/023/023_Objekte_N%C3%B5ulik_Romy.jpg	Objekte prompt eingeben Titel der Arbeit    Nõulik Romy   noulik
+01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/023/01_Szenen_Knauer_Sarah_spaceship_08_01.jpg	Szenen	centrifugally shaped, long spaceship floating in dark space, materials rattan, bamboo and jute, 8k high resolution photography	Raumschiff	Sarah Knauer	knauer						

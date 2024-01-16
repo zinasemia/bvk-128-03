@@ -2,4 +2,4 @@
 01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/026/00_Objekte_Hoelzer_AstronautAufSofa.jpg	Objekte   prompt eingeben Titel der Arbeit    Celina Hölzer   hoelzer					
 02	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/026/026_Freynhagen_Hannah(1).jpg	Objekte	prompt eingeben Titel der Arbeit    Hannah Freynhagen freynhagen					
 03	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/026/026_Freynhagen_Hannah(2).jpg	Objekte   prompt eingeben Titel der Arbeit    Hannah Freynhagen freynhagen					
-04	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/026/026_Freynhagen_Hannah.jpg	Objekte   prompt eingeben Titel der Arbeit    Hannah Freynhagen freynhagen					
+04	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/026/026_Freynhagen_Hannah.jpg	Objekte   prompt eingeben Titel der Arbeit    Hannah Freynhagen freynhagen	

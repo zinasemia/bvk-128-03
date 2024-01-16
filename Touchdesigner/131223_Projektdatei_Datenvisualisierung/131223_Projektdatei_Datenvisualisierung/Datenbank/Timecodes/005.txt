@@ -1,1 +1,2 @@
 name	path	filter	prompt	titel	autor	projektuebersicht
+02	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/005/02_Szenen_Jakob_Vasilega_Sarah_Dariia_005.png	Szene	make more russian, tundra, atmosphere of the movie solaris by Andrei Tarkowski  Landschaft	Sarah Jakob Dariia Vasilega	soviet
