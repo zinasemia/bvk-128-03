@@ -1,1 +1,2 @@
 name	path	filter	prompt	titel	autor	projektuebersicht
+01  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Eickelpasch_Lisa/14_Szenen_Eickelpasch_Lamella.jpg  Szenen  show me this image in the style of the created spaceship (Image to Image)  Lamella  Lisa Eickelpasch  eickelpasch

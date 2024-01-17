@@ -4,3 +4,4 @@ name	path	filter	prompt	titel	autor	projektuebersicht
 03	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/003/05_Charaktere_Reuters_Moritz.jpg	Charaktere	Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt.	Titel der Arbeit	Moritz Reuters	reuters
 04	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/003/05_Charaktere_Reuters_Moritz.jpg	Charaktere	Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt.	Titel der Arbeit	Moritz Reuters	reuters
 05	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/002/002_Zirk_Luisa.png	Szenen	Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt.	Titel der Arbeit	Luisa Zirk	zirk
+01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/003/01_Szenen_Jakob_Vasilega_Sarah_Dariia_003.png	Szene	make yellow match color of typo. do not change letters. make bear more Russian	Bär	Sarah Jakob Dariia Vasilega	soviet

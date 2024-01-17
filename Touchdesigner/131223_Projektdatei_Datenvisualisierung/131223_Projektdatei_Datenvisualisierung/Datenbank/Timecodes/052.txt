@@ -1,2 +1,3 @@
-name	path	filter	prompt	titel	autor	projektuebersicht
-01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/050/01_Szenen_Knauer_Sarah_cockpit_10.jpg	Szenen
+nummer	path	filter	prompt	titel	autor	projektuebersicht
+01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/050/01_Szenen_Knauer_Sarah_cockpit_10.jpg	Szenen  Prompt eingeben Titel der Arbeit    Sarah Knauer    knauer
+02  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/052/052_Szenen_GuthAntonia.png    Szenen  Prompt eingeben Titel der Arbeit    Antonia Guth    guth
