@@ -1,0 +1,3 @@
+name	path	filter	prompt	titel	autor	projektuebersicht
+01  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/058/01_Szenen_Alina_Blumstein.png Szenen  Prompt eingeben Titel der Arbeit    Alina Blumstein blumstein
+02  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/058/02_Szenen_Alina_Blumstein.png Szenen  Prompt eingeben Titel der Arbeit    Alina Blumstein blumstein
